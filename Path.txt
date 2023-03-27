@@ -1,0 +1,13 @@
+1. Terraform 
+2. Docker
+3. Kubernetes 
+
+Main Platform 
+- Azure DevOps
+
+Main Deployment
+-Build Pipeline
+-Release Pipeline
+
+GitHub 
+- DevOps Project

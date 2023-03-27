@@ -1,0 +1,22 @@
+General Requirements
+	- NodeMCU
+	- Sensor to determine Power Supply
+	- Converter
+	- Relay
+	- Buzzer
+	- Breadboard 
+	- Display
+	- Arduino
+	- Wires
+Web Application (UI Creation)
+	- Data Send to Firebase (Cloud)
+	- Fetch Data From Firebase
+	- Calculations through Algorithms
+	- API's For Prepaid and Postpaid Services
+	- Billing Info (Notification)
+Meter (Hardware)
+	- Get Readings of meter through simple meter
+	- Paste All Readings in NODE MCU
+	- power consumption
+	- Get bill through no. of units x power consumption
+	- Get Power consumption through Hall Effect sensor

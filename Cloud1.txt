@@ -1,0 +1,14 @@
+DEV Environment
+    - PRODUCT DEVELOPMENT - Directory
+    - Visual Studio Enterprise MPN PROD Environment
+    - DEMO HANU - DIRECTORY
+    - Demo Azure Subscription
+DevOpshttps://dev.azure.com/hanusoftware/Product%20Development%20%E2%80%93%20CMP Tasks:
+    - QA Environment to be created
+        - Export All the infra related to Cloud1 Application in ARM Template
+            - Reserach about Subscription level export.
+        - Custom Domians
+            - How to map a custom domain to app service.
+            - Availability of domian - Cloud1.com, cloud1insight.com     - Adding Security Optimizations
+        - Enabling SonarCloud in the Build pipelines to get metrics about 
+            code coverage, vulnerabilities, code smells etc.

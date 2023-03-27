@@ -1,0 +1,25 @@
+Project Assignment
+	- Fullstack application development. Create Microservices to fetch Azure realted info i.e. to called 
+	  Azure API's and display the data in an Angular Application.
+
+Application
+	- Tech Stack 
+		- .Net 6 For Backend API's 
+		- Angular (latest) - Front End App
+		- Tools/IDE - Visual Studio, VSCode, SSMS, Azure
+	- BackEnd 
+		- Cost Monitoring Service 
+			- Input - Subscription ID
+			- Output - This will fetch and return the details about costs and pricing for a given subscription
+		- Resource Info Service 
+			- Input - Subscription ID
+			- Output - This will fetch and return the details about costs and pricing for a given subscription
+Visual Studio 2019 (project structure)
+	- hany.resource.info
+		- GET Request
+	- hanu.cost.monitoring (Kartik and Avni)
+		- GET Request
+
+Create .Net project
+	- Resource Groups GET
+	- Call an Azure API using .net

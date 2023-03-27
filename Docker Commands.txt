@@ -1,0 +1,1 @@
+docker run -p5000:5432 -e POSTGRES_PASSWORD=password postgres - For Postgres waking through ports

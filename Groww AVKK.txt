@@ -1,0 +1,36 @@
+2023 Goal
+1. 9-5 (Office Work)
+2. 6-10 (Tutions and All)
+3. 11-2 (Leetcode and learning)
+
+Learning (MAANG)
+
+DSA (Data Structures and Algos)
+1. Dynamic Programming - 
+2. Binary Search - under process
+3. Graph -
+4. Trees - Easy Problems Done 
+	Binary Trees - 
+	Binary Search Trees - 
+5. Backtracking and Recursion - 
+6. Arrays and Strings -
+7. Stacks and Queues -
+8. Heaps - 
+
+Days -
+
+Chilllllllllllll.................... (i=n/2+1) print("Don't Worry Sab Ho Jayega, Koi ni jaa raha UK until unless, Jaana bhi accha hai)
+
+Mon - 
+Tue - 
+Wed - 
+Thu - 
+Fri - 
+Sat - Biweekly Contest at 8PM
+Sun - Morning Leetcode Weekly Contest at 8AM
+
+KK - 0 1 1 - MAANG - 5C1
+AV - 1 0 1 - GNAAM - 5C1
+
+
+AZ204PaasCertified - Password Insight Microsoft

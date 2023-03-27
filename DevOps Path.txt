@@ -1,0 +1,50 @@
+DevSecOps
+    - Application
+        - Source Code Management*
+        - Application Deployments*
+            - Monilithic Application
+            - Microservices Based
+            - App Service - Normal Deployment Process
+            - Containerized - AKS
+        - Automation Testing
+            - UI Testing
+                - Selenium, Cypress , Katalons
+            - API Testing
+                - Postman
+            - Data Testing
+                - Fidller
+        - Docker*
+        - Kubernetes
+        - SonarQube
+            - Code Coverage (>80%)
+            - Overall Code Quality
+            - Code Vulnerabilities
+            - Code Smells
+        - SAST
+        - DAST
+            - Functional Testing
+        - Pre-commit hooks
+        
+    - Infrastructure
+        - IAAC - Infra as code
+            - ARM Templates - JSON, Specific to Azure
+            - Terraform - Declartive, Cloud Native
+            - Bicep - Declaritive, Azure
+        - Security
+            - AzSK - Azure Secure kit -
+        - Migrations done using Azure DevOps
+            - TFS to ADO Migrations
+            - Data Migrations
+            - ADF Pipelines Migrations
+            - PowerBI Reports Migrations
+
+Application Deployment
+    - ASP .NET 6 Web App - Done
+    - Deploy to Azure App Service using ADO - Done
+
+Once the above is completed, Containerize the same application using Docker locally, Once containerized, deploy the container to AKS
+
+Output
+    - 2 Pipelines
+        - 1 is App Deployment
+        - 2 is Infra deployment
